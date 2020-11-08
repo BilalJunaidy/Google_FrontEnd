@@ -1,0 +1,28 @@
+.Hyperlink {
+	text-align: right;
+}
+
+.AS_Hyperlink {
+	text-align: right;
+	background: grey;
+	height: 40px;
+}
+
+
+#ImageSearch, #AdvancedSearch, #BasicSearch {
+	padding-right: 30px;
+	text-decoration: none;
+	color: black;
+}
+
+.searchform { 
+	margin: 0 auto;
+	width: 500px;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+	display: block;
+}
